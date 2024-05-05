@@ -1,2 +1,1 @@
-tekst='Hello world'
-print(tekst)
+print('Hello World')
